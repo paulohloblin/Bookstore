@@ -15,13 +15,13 @@ Before you can run the application, ensure that you have the following prerequis
 1. Clone this repository to your local machine:
 
    ```shell
-   git clone https://github.com/yourusername/online-bookstore-api.git
+   git clone https://github.com/paulohoblin/Bookstore.git
    ```
 
 2. Change to the project directory:
 
    ```shell
-   cd online-bookstore-api
+   cd Bookstore
    ```
 
 3. Restore the required NuGet packages:
@@ -68,11 +68,6 @@ To run the unit tests for the API, use the following command:
 ```shell
 dotnet test
 ```
-
-## Contributing
-
-Feel free to contribute to this project by opening issues or submitting pull requests. Your contributions are highly appreciated.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
